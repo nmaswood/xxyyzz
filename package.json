@@ -1,0 +1,25 @@
+{
+  "name": "sarjai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aalajlan6/SarjAI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aalajlan6/SarjAI/issues"
+  },
+  "homepage": "https://github.com/Aalajlan6/SarjAI#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "python-shell": "^5.0.0"
+  }
+}
